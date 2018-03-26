@@ -1,0 +1,31 @@
+.margin-top-5 {
+  margin-top: 5%; }
+
+.margin-bottom-5 {
+  margin-bottom: 5%; }
+
+.first-alphabet-large::first-letter {
+  font-size: 3rem; }
+
+html {
+  position: relative;
+  min-height: 100%; }
+
+body {
+  margin-bottom: 90px; }
+
+.row{
+  border-style: outset;
+}
+.bgc{
+  background-color: #FFF4D5;
+  padding-left: 25px;
+}
+.remo{
+	height: 10vh;
+	font-size: 25px;
+}
+
+
+
+/*# sourceMappingURL=index.css.map */
